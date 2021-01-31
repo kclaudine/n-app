@@ -65,7 +65,7 @@ $ sudo apt-get install postgresql postgresql-contrib libpq-dev
 
 ## Known Bugs
 
-There are no issues or bugs encountered yet while coming up with the programme but incase of anything,feel free to contact the devoloper through johnvictor0002@gmail.com.
+There are no issues or bugs 
 
 ## Support and contact details
 
