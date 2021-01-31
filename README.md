@@ -69,7 +69,7 @@ There are no issues or bugs
 
 ## Support and contact details
 
-Incase you want to use the programme and you dont know where to start or what to do,feel free to contact the developer and be sure to receive help as much as you would need.You can do so through johnvictor0002@gmail.com.
+For more information you can reach out to me via this email kuclaudine1@gmail.com
 
 ## License
 
