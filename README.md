@@ -25,7 +25,7 @@ Neighbourhood_app is a web application that allows you to be in the loop about e
 2. HTML and CSS
 3. Django
 4. Postgres
-5. Heroku for deployment
+<!-- 5. Heroku for deployment -->
 
 ## Behaviour Driven Development(BDD)
 
@@ -42,12 +42,12 @@ Neighbourhood_app is a web application that allows you to be in the loop about e
 
 ## Application link
 
-click [here](https://me-hood.herokuapp.com/)
+https://github.com/kclaudine/neghbourhood_app.git
 
 ## Set up and Installation
 
 To access this application on your command line, you need to clone it.
-`git clone https://github.com/twyfordsparks/neighbourhood.git`
+`git clone https://github.com/kclaudine/neghbourhood_app.git`
 
 ### Prerequisites
 
