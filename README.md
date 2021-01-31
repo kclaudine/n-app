@@ -73,5 +73,4 @@ For more information you can reach out to me via this email kuclaudine1@gmail.co
 
 ## License
 
-*MIT LISENCE.Feel free to use the code in anyway to improve it.
-Copyright (c) 2019 John Victor Njoroge Karanja
+*MIT LISENCE.
