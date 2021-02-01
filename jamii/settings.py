@@ -26,8 +26,7 @@ if config('MODE')=="dev":
            'NAME': config('DB_NAME'),
            'USER': config('DB_USER'),
            'PASSWORD': config('DB_PASSWORD'),
-           'HOST': config('DB_HOST'),
-           'PORT': '',
+           
        }
 
    }
@@ -53,9 +52,9 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 # SECRET_KEY = 'yhv7l*v4c*_4unm!a&$fquwc1n)mmyas5l7-=n*el0y0*ni8bm'
 
-DEBUG = True
+# DEBUG = True
 
-ALLOWED_HOSTS = []
+# ALLOWED_HOSTS = []
 
 
 # SECURITY WARNING: don't run with debug turned on in production!
