@@ -24,6 +24,7 @@ Neighbourhood_app is a web application that allows you to be in the loop about e
 2. HTML and CSS
 3. Django
 4. Postgres
+5. Heroku
 
 ## Application link
 
