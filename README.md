@@ -17,7 +17,7 @@ Neighbourhood_app is a web application that allows you to be in the loop about e
 5. A user can view projects overall score.
 6. A user can View their profile page with a general name and their neighborhoods.
 7. A user can view a list of different businesses in my neighborhood.
-8. A user can find Contact Information for the health department and Police authorities in their neighborhood.
+8. A user can find Contact Information for the health department and Police authorities intheir neighborhood.
 
 ## Technologies Used
 
