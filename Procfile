@@ -1,1 +1,1 @@
-web: gunicorn jamii.wsgi --log-file -
+web: gunicorn jamii.wsgi 
